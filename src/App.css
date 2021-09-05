@@ -1,0 +1,24 @@
+.product-card-styled{
+  width: 15rem;
+  min-height:5rem ;
+  margin: 1rem 0 0 3rem;
+}
+.header{
+  height: 3rem;
+  color: white;
+  background-color: blue;
+}
+.product-listing-page{
+  display: flex;
+  flex-wrap: wrap;
+}
+.home-page-wrapper{
+  display: flex;
+}
+.sort-filter-styled{
+  min-width: 10rem;
+}
+
+.product-image{
+  height:10rem;
+}

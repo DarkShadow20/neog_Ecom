@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "type":"Cotton Polyester Blend Printed Shirt Fabric  (Unstitched)",
+            "brand":"levis",
+            "size":"M",
+            "price":"850",
+            "idealFor":"men",
+            "image":"https://rukminim1.flixcart.com/image/580/696/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50"
+        },
+        {
+            "type":"Super Skinny Men Light Blue Jeans",
+            "brand":"numero-uno",
+            "size":"L",
+            "price":"1500",
+            "idealFor":"men",
+            "image":"https://rukminim1.flixcart.com/image/580/696/kfoapow0-0/jean/f/z/y/32-hljn000889-highlander-original-imafw2gfy2gggcs6.jpeg?q=50"
+        },
+        {
+            "type":"Casual Regular Sleeves Solid Women White Top",
+            "brand":"levis",
+            "size":"M",
+            "price":"800",
+            "idealFor":"women",
+            "image":"https://rukminim1.flixcart.com/image/580/696/k69ncsw0/top/j/k/8/s-96tk2398-selvia-original-imafzrqemc86paxn.jpeg?q=50"
+        },
+        {
+            "type":"Slim Women Blue Jeans",
+            "brand":"pepe",
+            "size":"S",
+            "price":"1250",
+            "idealFor":"women",
+            "image":"https://rukminim1.flixcart.com/image/580/696/kgwld3k0-0/jean/s/3/z/34-1103-shade-2-jeans-blue-v-girl-original-imafxf2snvhurcdd.jpeg?q=50"
+        },
+        {
+            "type":"Solid Men Polo Neck White, Black T-Shirt",
+            "brand":"nike",
+            "size":"XL",
+            "price":"950",
+            "idealFor":"men",
+            "image":"https://rukminim1.flixcart.com/image/580/696/kf75fgw0-0/t-shirt/f/6/j/xxl-t325-pwgh-seven-rocks-original-imafvpbgf6nchmfj.jpeg?q=50"
+        },
+        {
+            "type":"Color Block Women Round Neck Multicolor T-Shirt",
+            "brand":"wrangler",
+            "size":"XL",
+            "price":"850",
+            "idealFor":"women",
+            "image":"https://rukminim1.flixcart.com/image/880/1056/kfoapow0-0/t-shirt/w/o/n/s-2907-the-dry-state-original-imafw2gxuntfkzfy.jpeg?q=50"
+        }
+    ]
+  }
